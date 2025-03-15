@@ -1,7 +1,7 @@
 {
-  "Setups": [
-    {}
-  ],
+  "DefaultGameSettings": {
+      "ProjectName": "Squad"
+  },
   "Maps": [
     {
       "Name": "GE_VO_Yehorivka_Invasion_v2",
@@ -1212,6 +1212,12 @@
       "mapSize": "1.3x1.3 km",
       "mapSizeType": "Playable Area"
     }
+  ],
+  "Units": {
+    
+  },
+  "Roles": [
+    {}
   ],
   "Vehicles": [
     {}
